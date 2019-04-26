@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\web",
+    "\\web-front",
+    "\\web-front\\src",
+    "\\web-front\\src\\app",
+    "\\web-front\\src\\app\\components",
+    "\\web-front\\src\\app\\components\\inicio\\carousel",
+    "\\web-front\\src\\app\\components\\navegacion"
+  ],
+  "SelectedNode": "\\web-front\\src\\app\\components\\navegacion\\navegacion.component.html",
+  "PreviewInSolutionExplorer": false
+}
