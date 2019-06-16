@@ -33,4 +33,4 @@ class Subproducto(models.Model):
     def __str__(self):
         return self.nombre
     
-
+# Si quisiera 
