@@ -1,7 +1,7 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 from web.app.serializers import UserSerializer, GroupSerializer, SubproductoSerializer, ProductoSerializer, RubroSerializer
-from .models import Subproducto, Producto, Rubro
+from web.app.models import Subproducto, Producto, Rubro
 
 
 class UserViewSet(viewsets.ModelViewSet):
